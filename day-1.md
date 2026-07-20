@@ -50,4 +50,6 @@ Use the Preview tab to check your Markdown formatting.
 Notice the image is too large for our purpose.
 Replace the simple markdown version with an HTML version that includes size and position info. Much better!
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ```<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">```
